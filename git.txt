@@ -1,0 +1,2 @@
+Pull error with untracked - https://stackoverflow.com/questions/17404316/the-following-untracked-working-tree-files-would-be-overwritten-by-merge-but-i
+Stash overwrite error - git checkout stash --
