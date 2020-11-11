@@ -1,0 +1,1 @@
+If page unsafe error and unable to proceed, click on a blank space and type "thisisunsafe".
